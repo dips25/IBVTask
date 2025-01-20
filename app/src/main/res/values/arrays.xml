@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="chart_colors">
+
+        <item>#FF5733</item> <!-- Red -->
+        <item>#33FF57</item> <!-- Green -->
+        <item>#3357FF</item> <!-- Blue -->
+        <item>#FF33A1</item> <!-- Pink -->
+        <item>#FF9133</item> <!-- Orange -->
+        <item>#33FFF7</item> <!-- Cyan -->
+        <item>#7F33FF</item> <!-- Purple -->
+        <item>#FFDB33</item> <!-- Yellow -->
+        <item>#33FFBD</item> <!-- Teal -->
+        <item>#FF5733</item>
+
+    </array>
+</resources>
